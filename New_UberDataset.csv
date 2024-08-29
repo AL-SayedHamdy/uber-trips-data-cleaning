@@ -1,0 +1,945 @@
+CATEGORY,START,STOP,MILES,DURATION in minutes
+Business,Fort Pierce,Fort Pierce,5.1,6.0
+Business,Fort Pierce,Fort Pierce,5.0,12.0
+Business,Fort Pierce,Fort Pierce,4.8,13.0
+Business,Fort Pierce,Fort Pierce,4.7,14.0
+Business,Fort Pierce,West Palm Beach,63.7,67.0
+Business,West Palm Beach,West Palm Beach,4.3,4.0
+Business,West Palm Beach,Palm Beach,7.1,5.0
+Business,Cary,Cary,0.8,6.0
+Business,Cary,Morrisville,8.3,20.0
+Business,Jamaica,New York,16.5,27.0
+Business,New York,Queens,10.8,43.0
+Business,Elmhurst,New York,7.5,35.0
+Business,Midtown,East Harlem,6.2,20.0
+Business,East Harlem,NoMad,6.4,26.0
+Business,Flatiron District,Midtown,1.6,7.0
+Business,Midtown,Midtown East,1.7,14.0
+Business,Midtown East,Midtown,1.9,13.0
+Business,Midtown,Hudson Square,1.9,16.0
+Business,Hudson Square,Lower Manhattan,4.0,16.0
+Business,Lower Manhattan,Hudson Square,1.8,14.0
+Business,Hudson Square,Hell's Kitchen,2.4,15.0
+Business,Hell's Kitchen,Midtown,2.0,12.0
+Business,New York,Queens County,15.1,58.0
+Business,Downtown,Gulfton,11.2,13.0
+Business,Gulfton,Downtown,11.8,28.0
+Business,Houston,Houston,21.9,36.0
+Business,Eagan Park,Jamestown Court,3.9,6.0
+Business,Morrisville,Cary,8.0,20.0
+Business,Cary,Durham,10.4,20.0
+Business,Durham,Cary,10.4,18.0
+Business,Cary,Cary,4.8,11.0
+Business,Farmington Woods,Whitebridge,4.7,11.0
+Business,Whitebridge,Lake Wellingborough,7.2,14.0
+Business,Lake Wellingborough,Whitebridge,7.6,14.0
+Business,Cary,Raleigh,17.1,35.0
+Business,Fayetteville Street,Umstead,15.1,31.0
+Business,Raleigh,Cary,40.2,54.0
+Business,Cary,Cary,1.6,4.0
+Business,Cary,Cary,2.4,8.0
+Business,Cary,Cary,1.0,5.0
+Business,Whitebridge,Hazelwood,2.0,9.0
+Business,Hazelwood,Whitebridge,2.3,8.0
+Business,Whitebridge,Westpark Place,1.9,8.0
+Business,Cary,Cary,1.4,5.0
+Business,Cary,Cary,0.5,2.0
+Business,Cary,Cary,1.8,7.0
+Business,Cary,Raleigh,18.7,29.0
+Business,Fairmont,Meredith Townes,3.4,10.0
+Business,Raleigh,Raleigh,2.7,8.0
+Business,Raleigh,Cary,12.9,22.0
+Business,Cary,Raleigh,19.0,32.0
+Business,Meredith Townes,Leesville Hollow,14.7,20.0
+Business,Raleigh,Cary,15.7,30.0
+Business,Cary,Cary,4.6,14.0
+Business,Cary,Cary,5.2,11.0
+Business,Cary,Durham,10.4,20.0
+Business,Durham,Cary,10.1,23.0
+Business,Cary,Apex,5.8,21.0
+Business,Apex,Cary,5.5,19.0
+Business,Cary,Apex,5.7,12.0
+Business,Apex,Cary,5.7,15.0
+Business,Cary,Chapel Hill,19.4,40.0
+Business,Chapel Hill,Cary,23.3,33.0
+Business,Northwoods,Whitebridge,3.9,11.0
+Business,Whitebridge,Williamsburg Manor,8.3,19.0
+Business,Cary,Cary,6.0,15.0
+Business,Cary,Cary,1.6,4.0
+Business,Cary,Morrisville,5.2,21.0
+Business,Morrisville,Cary,9.7,32.0
+Business,Cary,Cary,1.6,6.0
+Business,Cary,Cary,1.1,4.0
+Business,Cary,Cary,1.6,4.0
+Business,Whitebridge,Macgregor Downs,9.0,27.0
+Business,Cary,Cary,7.7,19.0
+Business,Cary,Durham,10.4,20.0
+Business,Durham,Cary,10.4,19.0
+Business,Cary,Raleigh,11.4,33.0
+Business,Raleigh,Cary,9.0,24.0
+Business,Edgehill Farms,Whitebridge,3.2,9.0
+Business,Cary,Apex,5.6,12.0
+Business,Apex,Cary,5.7,14.0
+Business,Cary,Morrisville,6.1,14.0
+Business,Morrisville,Cary,6.1,18.0
+Business,Whitebridge,Edgehill Farms,4.3,11.0
+Business,Edgehill Farms,Whitebridge,2.7,10.0
+Personal,Whitebridge,Northwoods,5.3,13.0
+Personal,Northwoods,Tanglewood,3.0,7.0
+Personal,Tanglewood,Preston,5.1,16.0
+Personal,Preston,Whitebridge,1.5,4.0
+Business,Cary,Morrisville,6.1,16.0
+Business,Morrisville,Cary,6.1,16.0
+Business,Cary,Raleigh,17.3,42.0
+Business,Eastgate,Walnut Terrace,5.7,21.0
+Business,Raleigh,Morrisville,13.5,22.0
+Business,Morrisville,Cary,6.1,15.0
+Business,Cary,Durham,8.5,21.0
+Business,Durham,Morrisville,2.6,7.0
+Business,Morrisville,Raleigh,17.0,21.0
+Business,Raleigh,Cary,18.0,34.0
+Business,Cary,Morrisville,8.4,17.0
+Business,Morrisville,Cary,11.5,33.0
+Business,Cary,Morrisville,8.9,20.0
+Personal,East Elmhurst,Jackson Heights,2.7,-1424.0
+Personal,Jackson Heights,East Elmhurst,1.8,10.0
+Business,East Elmhurst,New York,8.1,33.0
+Business,Midtown,Midtown West,2.0,17.0
+Business,New York,Long Island City,13.0,27.0
+Business,Long Island City,Jamaica,13.9,23.0
+Business,Colombo,Colombo,2.6,10.0
+Business,Colombo,Colombo,4.5,30.0
+Business,Colombo,Colombo,1.7,3.0
+Business,Colombo,Colombo,1.8,12.0
+Business,Colombo,Colombo,6.0,36.0
+Business,Colombo,Nugegoda,1.1,9.0
+Business,Colombo,Colombo,1.7,5.0
+Business,Colombo,Katunayaka,21.4,44.0
+Business,Katunayaka,Katunayaka,0.5,5.0
+Personal,Islamabad,Islamabad,1.5,6.0
+Personal,Islamabad,Islamabad,1.0,5.0
+Business,Islamabad,Islamabad,4.2,11.0
+Personal,Islamabad,Islamabad,3.0,8.0
+Personal,Islamabad,Islamabad,1.5,8.0
+Business,Islamabad,R?walpindi,18.4,36.0
+Business,R?walpindi,R?walpindi,23.1,64.0
+Business,Islamabad,Islamabad,4.6,14.0
+Business,Islamabad,Noorpur Shahan,8.1,17.0
+Business,Morrisville,Cary,8.1,15.0
+Business,Whitebridge,Preston,1.5,5.0
+Business,Preston,Whitebridge,1.7,6.0
+Business,Whitebridge,Heritage Pines,3.1,8.0
+Business,Heritage Pines,Whitebridge,3.2,15.0
+Business,Whitebridge,Tanglewood,6.0,20.0
+Business,Tanglewood,Whitebridge,5.8,17.0
+Business,Whitebridge,Westpark Place,6.3,23.0
+Personal,Westpark Place,Whitebridge,1.7,6.0
+Business,Cary,Durham,10.6,24.0
+Business,Durham,Cary,9.9,23.0
+Personal,Whitebridge,Westpark Place,1.9,8.0
+Personal,Westpark Place,Hazelwood,4.2,18.0
+Personal,Hazelwood,Whitebridge,2.0,11.0
+Business,Whitebridge,Waverly Place,7.7,16.0
+Business,Waverly Place,Whitebridge,6.8,16.0
+Personal,Whitebridge,Westpark Place,2.1,7.0
+Business,Cary,Apex,3.8,10.0
+Business,Apex,Cary,5.6,12.0
+Business,Whitebridge,Hazelwood,2.6,8.0
+Business,Hazelwood,Whitebridge,6.6,20.0
+Business,Whitebridge,Wayne Ridge,8.0,23.0
+Business,Wayne Ridge,Whitebridge,8.0,18.0
+Personal,Whitebridge,Westpark Place,2.2,7.0
+Business,Westpark Place,Whitebridge,2.3,6.0
+Business,Whitebridge,Northwoods,5.2,14.0
+Business,Cary,Raleigh,7.6,21.0
+Business,Raleigh,Cary,17.3,40.0
+Business,Cary,Durham,9.9,19.0
+Business,Durham,Cary,9.9,17.0
+Business,Cary,Durham,10.4,20.0
+Business,Durham,Cary,10.9,22.0
+Business,Cary,Raleigh,15.7,29.0
+Business,Raleigh,Raleigh,4.9,12.0
+Business,Fayetteville Street,Depot Historic District,0.8,6.0
+Business,Raleigh,Cary,13.5,29.0
+Business,Cary,Morrisville,1.9,6.0
+Business,Morrisville,Cary,2.0,9.0
+Business,Cary,Morrisville,6.5,15.0
+Personal,Weston,Weston,4.2,15.0
+Personal,Morrisville,Cary,3.5,10.0
+Business,Whitebridge,Wayne Ridge,7.8,22.0
+Business,Cary,Morrisville,7.8,21.0
+Business,Morrisville,Cary,3.9,11.0
+Business,Whitebridge,Edgehill Farms,2.8,10.0
+Business,Cary,Raleigh,12.4,24.0
+Business,Fayetteville Street,Meredith Townes,5.9,16.0
+Business,Meredith Townes,Leesville Hollow,9.4,21.0
+Business,Raleigh,Cary,11.9,26.0
+Business,Whitebridge,Waverly Place,7.2,17.0
+Business,Waverly Place,Whitebridge,7.6,25.0
+Personal,Whitebridge,Whitebridge,1.6,12.0
+Business,Cary,Morrisville,8.4,17.0
+Business,East Austin,West University,12.8,29.0
+Business,West University,South Congress,2.3,16.0
+Business,South Congress,Arts District,1.6,10.0
+Business,The Drag,Congress Ave District,2.0,12.0
+Business,Congress Ave District,Downtown,0.8,7.0
+Business,Downtown,Red River District,1.2,7.0
+Business,Red River District,Downtown,1.0,8.0
+Business,South Congress,The Drag,2.1,14.0
+Business,The Drag,South Congress,2.2,9.0
+Personal,South Congress,The Drag,1.9,10.0
+Business,The Drag,Convention Center District,5.7,30.0
+Business,South Congress,North Austin,8.4,20.0
+Business,Georgian Acres,The Drag,6.2,21.0
+Business,The Drag,North Austin,10.5,19.0
+Business,North Austin,Coxville,7.2,12.0
+Business,Coxville,The Drag,12.5,20.0
+Business,The Drag,South Congress,2.0,15.0
+Business,South Congress,The Drag,2.7,16.0
+Business,The Drag,Convention Center District,2.0,12.0
+Business,Downtown,The Drag,2.8,13.0
+Business,The Drag,Congress Ave District,1.7,11.0
+Business,Convention Center District,West University,2.0,11.0
+Business,West University,Congress Ave District,2.1,13.0
+Personal,Downtown,The Drag,1.7,11.0
+Business,Austin,Katy,136.0,139.0
+Business,Katy,Houston,30.2,42.0
+Business,Midtown,Alief,15.5,42.0
+Personal,Houston,Houston,4.9,22.0
+Personal,Houston,Houston,12.6,31.0
+Personal,Sharpstown,Midtown,10.4,16.0
+Business,Midtown,Midtown,1.1,6.0
+Business,Midtown,Midtown,1.1,8.0
+Business,Midtown,Sharpstown,13.2,44.0
+Business,Sharpstown,Sharpstown,1.0,6.0
+Business,Sharpstown,Midtown,9.2,14.0
+Business,Midtown,Sharpstown,9.4,15.0
+Business,Houston,Sugar Land,12.0,23.0
+Business,Sugar Land,Houston,35.1,56.0
+Business,Houston,Galveston,36.5,64.0
+Business,Galveston,Port Bolivar,3.1,15.0
+Business,Port Bolivar,Port Bolivar,2.1,10.0
+Business,Port Bolivar,Port Bolivar,1.2,8.0
+Business,Port Bolivar,Galveston,7.5,36.0
+Business,Galveston,Houston,57.0,66.0
+Business,Midtown,Washington Avenue,5.9,11.0
+Business,Washington Avenue,Midtown,6.2,14.0
+Business,Midtown,Sharpstown,10.4,26.0
+Personal,Sharpstown,Briar Meadow,1.2,6.0
+Business,Briar Meadow,Midtown,9.6,21.0
+Personal,Midtown,Downtown,1.0,5.0
+Business,Downtown,Midtown,0.9,8.0
+Business,Midtown,Sharpstown,8.8,16.0
+Business,Sharpstown,Midtown,25.6,37.0
+Business,Midtown,Greater Greenspoint,23.0,26.0
+Personal,Morrisville,Cary,8.1,18.0
+Personal,Whitebridge,Whitebridge,1.4,13.0
+Personal,Whitebridge,Preston,1.7,5.0
+Personal,Preston,Whitebridge,1.6,6.0
+Personal,Whitebridge,Westpark Place,2.0,7.0
+Business,Westpark Place,Whitebridge,2.2,6.0
+Business,Cary,Latta,144.0,178.0
+Business,Latta,Jacksonville,310.3,330.0
+Business,Jacksonville,Kissimmee,201.0,-1275.0
+Personal,Couples Glen,Isles of Buena Vista,6.7,24.0
+Personal,Kissimmee,Orlando,8.8,30.0
+Personal,Lake Reams,Lake Reams,1.2,4.0
+Business,Lake Reams,Lake Reams,2.1,9.0
+Business,Orlando,Kissimmee,6.6,12.0
+Business,Kissimmee,Orlando,6.1,25.0
+Personal,Orlando,Orlando,6.9,15.0
+Personal,Orlando,Kissimmee,7.3,14.0
+Personal,Kissimmee,Orlando,3.6,13.0
+Personal,Couples Glen,Vista East,27.2,53.0
+Personal,Orlando,Kissimmee,25.7,31.0
+Personal,Kissimmee,Orlando,13.6,44.0
+Personal,Sand Lake Commons,Sky Lake,6.2,19.0
+Personal,Sky Lake,Sand Lake Commons,6.0,15.0
+Personal,Orlando,Kissimmee,13.8,17.0
+Business,Orlando,Kissimmee,28.8,50.0
+Business,Kissimmee,Orlando,16.1,35.0
+Business,Orlando,Kissimmee,16.4,32.0
+Business,Kissimmee,Kissimmee,11.0,18.0
+Business,Kissimmee,Orlando,15.5,48.0
+Business,Orlando,Kissimmee,20.3,48.0
+Personal,Kissimmee,Kissimmee,0.7,5.0
+Personal,Kissimmee,Kissimmee,5.5,16.0
+Personal,Kissimmee,Kissimmee,5.1,15.0
+Business,Kissimmee,Daytona Beach,77.3,146.0
+Business,Daytona Beach,Jacksonville,80.5,72.0
+Business,Jacksonville,Ridgeland,174.2,178.0
+Business,Ridgeland,Florence,144.0,-1297.0
+Business,Florence,Cary,159.3,136.0
+Business,Whitebridge,Wayne Ridge,7.9,16.0
+Business,Wayne Ridge,Whitebridge,8.0,20.0
+Business,Cary,Morrisville,6.1,19.0
+Business,Morrisville,Cary,6.1,15.0
+Business,Cary,Durham,10.5,18.0
+Business,Durham,Cary,8.7,17.0
+Business,Westpark Place,Whitebridge,1.8,8.0
+Business,Cary,Raleigh,19.1,37.0
+Business,Raleigh,Cary,18.6,42.0
+Business,Whitebridge,Edgehill Farms,2.8,11.0
+Business,Cary,Raleigh,8.9,19.0
+Business,Meredith,Cedar Hill,7.5,20.0
+Business,Raleigh,Morrisville,15.9,22.0
+Business,Morrisville,Cary,6.5,19.0
+Business,Cary,Holly Springs,15.3,40.0
+Business,Holly Springs,Cary,13.7,43.0
+Business,Cary,Raleigh,11.9,31.0
+Business,Meredith Townes,Harden Place,1.4,3.0
+Business,Raleigh,Cary,15.2,30.0
+Business,Cary,Morrisville,6.0,18.0
+Business,Morrisville,Cary,6.1,16.0
+Business,Whitebridge,Wayne Ridge,8.2,24.0
+Business,Wayne Ridge,Whitebridge,8.0,22.0
+Business,Cary,Raleigh,13.6,39.0
+Business,Raleigh,Cary,22.5,30.0
+Business,Cary,Durham,10.4,20.0
+Business,Durham,Cary,10.0,24.0
+Business,Whitebridge,Tanglewood,6.0,13.0
+Business,Tanglewood,Whitebridge,6.5,16.0
+Business,Cary,Morrisville,3.1,9.0
+Business,Chessington,Chessington,1.9,6.0
+Business,Morrisville,Cary,4.2,9.0
+Business,Whitebridge,Burtrose,4.9,10.0
+Business,Burtrose,Whitebridge,4.8,12.0
+Business,Cary,Raleigh,12.4,25.0
+Business,Raleigh,Cary,32.8,19.0
+Business,Morrisville,Cary,5.5,18.0
+Business,Cary,Durham,9.9,17.0
+Business,Durham,Cary,10.0,21.0
+Business,Cary,Durham,14.2,32.0
+Business,Durham,Cary,18.2,35.0
+Business,Whitebridge,Waverly Place,7.7,15.0
+Business,Waverly Place,Whitebridge,6.8,18.0
+Business,Whitebridge,Westpark Place,2.1,8.0
+Business,Westpark Place,Whitebridge,2.3,5.0
+Business,Whitebridge,Tanglewood,6.2,12.0
+Business,Tanglewood,Parkway,7.5,16.0
+Business,Parkway,Whitebridge,3.1,11.0
+Business,Whitebridge,Westpark Place,2.2,7.0
+Business,Westpark Place,Whitebridge,3.9,11.0
+Business,Morrisville,Cary,2.5,8.0
+Business,Cary,Morrisville,8.7,21.0
+Business,Mcvan,Capitol One,14.5,19.0
+Business,Capitol One,University District,4.5,6.0
+Business,University District,Capitol One,5.0,8.0
+Business,Seattle,Redmond,14.2,12.0
+Business,Redmond,Bellevue,2.9,6.0
+Business,Bellevue,Seattle,12.9,-1427.0
+Business,Capitol One,Mcvan,14.4,15.0
+Business,Chapel Hill,Morrisville,17.0,14.0
+Business,Morrisville,Cary,7.9,26.0
+Business,Cary,Morrisville,8.4,17.0
+Business,San Francisco,Palo Alto,20.5,27.0
+Business,Palo Alto,Sunnyvale,9.8,28.0
+Business,Sunnyvale,Newark,17.6,24.0
+Business,Newark,Menlo Park,9.3,17.0
+Business,Menlo Park,Newark,7.9,12.0
+Business,Newark,San Francisco,25.6,37.0
+Business,Morrisville,Cary,8.1,17.0
+Business,Cary,Morrisville,3.1,4.0
+Business,Morrisville,Cary,3.1,4.0
+Business,Whitebridge,Preston,2.8,8.0
+Business,Preston,Westpark Place,2.7,12.0
+Business,Westpark Place,Whitebridge,1.9,6.0
+Business,Cary,Morrisville,8.4,30.0
+Business,Morrisville,Raleigh,7.6,2.0
+Business,Old City,Parkway Museums,2.9,24.0
+Business,Old City,Hog Island,11.2,11.0
+Business,Morrisville,Cary,8.2,29.0
+Business,Cary,Morrisville,3.0,7.0
+Business,Morrisville,Cary,2.5,7.0
+Business,Whitebridge,Savon Height,3.6,8.0
+Business,Savon Height,Whitebridge,3.6,12.0
+Business,Whitebridge,Kildaire Farms,4.5,4.0
+Business,Savon Height,Kilarney Woods,1.2,6.0
+Business,Kilarney Woods,Kildaire Farms,1.7,3.0
+Business,Kilarney Woods,Whitebridge,4.7,6.0
+Business,Cary,Morrisville,6.1,14.0
+Business,Morrisville,Cary,11.3,29.0
+Business,Cary,Raleigh,14.9,47.0
+Business,Raleigh,Cary,14.0,37.0
+Business,Westpark Place,Whitebridge,1.8,9.0
+Business,Cary,Morrisville,6.7,28.0
+Business,Morrisville,Cary,9.6,29.0
+Business,Cary,Durham,10.4,20.0
+Business,Durham,Cary,9.9,30.0
+Business,Cary,Morrisville,6.0,23.0
+Business,Townes at Everett Crossing,Chessington,3.3,15.0
+Business,Morrisville,Cary,3.1,12.0
+Business,Huntington Woods,Weston,1.7,6.0
+Business,Morrisville,Cary,4.0,19.0
+Business,Whitebridge,Savon Height,7.8,30.0
+Business,Cary,Morrisville,7.8,16.0
+Business,Weston,Weston,3.8,11.0
+Business,Morrisville,Cary,2.5,9.0
+Business,Cary,Durham,9.9,12.0
+Business,Durham,Cary,9.9,-1424.0
+Business,Whitebridge,Hazelwood,3.0,9.0
+Business,Hazelwood,Whitebridge,2.4,8.0
+Business,Cary,Apex,5.7,14.0
+Business,Apex,Cary,7.2,29.0
+Business,Cary,Durham,10.4,19.0
+Business,Durham,Cary,9.9,14.0
+Business,Cary,Durham,10.4,18.0
+Business,Durham,Cary,9.9,-1417.0
+Business,Cary,Morrisville,8.7,30.0
+Business,Jamaica,New York,22.3,57.0
+Business,Seaport,Gramercy-Flatiron,3.3,17.0
+Business,Medical Centre,Tudor City,0.7,6.0
+Business,Rose Hill,Soho,2.5,16.0
+Business,Soho,Tribeca,0.5,2.0
+Business,Tribeca,Financial District,0.9,6.0
+Business,Financial District,Kips Bay,4.8,14.0
+Business,New York,Jamaica,16.3,69.0
+Business,Cary,Durham,10.4,17.0
+Business,Durham,Cary,9.9,-1432.0
+Business,Cary,Morrisville,3.7,8.0
+Business,Morrisville,Cary,4.6,5.0
+Business,Westpark Place,Whitebridge,1.7,6.0
+Business,Cary,Durham,10.4,19.0
+Business,Durham,Cary,9.9,-1414.0
+Business,Cary,Morrisville,2.5,3.0
+Business,Morrisville,Cary,4.3,11.0
+Business,Parkway,Whitebridge,2.8,21.0
+Business,Cary,Morrisville,8.4,19.0
+Business,Oakland,Emeryville,13.2,29.0
+Business,Emeryville,Berkeley,3.9,39.0
+Business,Berkeley,Oakland,5.1,29.0
+Business,Emeryville,San Francisco,9.8,18.0
+Business,San Francisco,Emeryville,11.6,30.0
+Business,Emeryville,Oakland,5.1,9.0
+Business,Downtown,Bay Farm Island,9.3,30.0
+Business,Kenner,New Orleans,12.4,20.0
+Business,CBD,Lower Garden District,1.9,8.0
+Business,Lower Garden District,Lakeview,6.4,25.0
+Personal,Lakeview,Storyville,5.5,20.0
+Business,Storyville,Faubourg Marigny,1.5,6.0
+Business,New Orleans,Metairie,14.5,54.0
+Business,Metairie,Kenner,2.7,4.0
+Business,Kenner,New Orleans,15.0,24.0
+Business,New Orleans,Kenner,12.9,17.0
+Business,Kenner,New Orleans,13.6,13.0
+Business,New Orleans,Kenner,12.2,33.0
+Business,Morrisville,Cary,8.7,22.0
+Business,Cary,Raleigh,6.0,11.0
+Business,Raleigh,Cary,5.9,9.0
+Business,Cary,Raleigh,19.3,29.0
+Business,Raleigh,Cary,16.6,51.0
+Business,Whitebridge,Waverly Place,7.1,16.0
+Business,Waverly Place,Macgregor Downs,2.1,7.0
+Business,Cary,Raleigh,8.6,18.0
+Business,Raleigh,Morrisville,9.0,22.0
+Business,Morrisville,Cary,3.1,9.0
+Business,Cary,Morrisville,8.4,19.0
+Business,Kenner,New Orleans,12.8,18.0
+Business,CBD,Bywater,4.5,9.0
+Business,New Orleans,Chalmette,11.8,53.0
+Business,Chalmette,Arabi,1.1,7.0
+Business,Arabi,Metairie,17.0,28.0
+Business,Pontchartrain Shores,Pontchartrain Shores,1.7,9.0
+Business,Metairie,New Orleans,15.5,88.0
+Business,Storyville,Marigny,1.6,11.0
+Business,Marigny,Storyville,1.5,7.0
+Business,New Orleans,Kenner,12.6,35.0
+Business,Pontchartrain Shores,Pontchartrain Shores,4.8,27.0
+Business,Kenner,Kenner,2.2,9.0
+Business,Kenner,New Orleans,13.0,28.0
+Business,New Orleans,Covington,46.9,71.0
+Business,Covington,Covington,2.5,9.0
+Business,Covington,Covington,8.6,28.0
+Business,Covington,Covington,5.2,25.0
+Business,Covington,Covington,7.6,17.0
+Business,Covington,Covington,1.8,7.0
+Business,Covington,Mandeville,4.7,18.0
+Business,Mandeville,Mandeville,2.8,12.0
+Business,Mandeville,Metairie,30.0,40.0
+Business,Metairie,Kenner,4.4,9.0
+Business,Jamestown Court,Jamestown Court,1.0,10.0
+Business,Morrisville,Cary,8.2,17.0
+Business,Cary,Durham,10.4,20.0
+Business,Durham,Cary,9.9,25.0
+Business,Durham,Cary,9.9,25.0
+Business,Cary,Morrisville,7.3,28.0
+Business,Morrisville,Cary,7.4,16.0
+Business,Whitebridge,Westpark Place,1.6,2.0
+Business,Westpark Place,Whitebridge,1.8,5.0
+Business,Cary,Durham,10.4,18.0
+Business,Durham,Cary,9.9,-1418.0
+Business,Cary,Durham,9.9,17.0
+Business,Durham,Cary,9.9,25.0
+Business,Cary,Raleigh,13.3,23.0
+Business,Raleigh,Cary,11.3,24.0
+Business,Cary,Durham,10.5,18.0
+Business,Durham,Cary,9.9,-1419.0
+Business,Cary,Durham,10.1,18.0
+Business,Durham,Cary,9.9,-1416.0
+Business,Cary,Morrisville,3.1,10.0
+Business,Morrisville,Cary,3.1,6.0
+Business,Cary,Durham,9.9,18.0
+Business,Durham,Cary,9.9,15.0
+Business,Whitebridge,Summerwinds,8.8,18.0
+Business,Summerwinds,Whitebridge,8.7,26.0
+Business,Cary,Durham,11.8,17.0
+Business,Parkwood,Parkwood,1.2,5.0
+Business,Durham,Cary,9.9,20.0
+Business,Whitebridge,Whitebridge,0.6,4.0
+Business,Cary,Durham,9.9,20.0
+Business,Durham,Morrisville,8.6,21.0
+Business,Morrisville,Cary,6.3,20.0
+Business,Cary,Durham,9.9,19.0
+Business,Durham,Cary,9.9,20.0
+Business,Cary,Morrisville,3.3,10.0
+Business,Morrisville,Cary,3.1,13.0
+Business,Cary,Morrisville,7.9,28.0
+Business,Morrisville,Cary,8.9,6.0
+Business,Kenner,New Orleans,12.8,36.0
+Business,CBD,Pontchartrain Beach,7.7,23.0
+Business,Pontchartrain Beach,CBD,7.0,21.0
+Business,New Orleans,Metairie,12.5,23.0
+Business,Kenner,New Orleans,13.2,19.0
+Business,New Orleans,Kenner,13.0,43.0
+Business,Kenner,Metairie,4.9,14.0
+Business,Metairie,New Orleans,8.5,18.0
+Business,CBD,St Thomas,1.3,7.0
+Business,St Thomas,CBD,1.8,11.0
+Business,New Orleans,Kenner,13.6,16.0
+Business,Kenner,New Orleans,13.4,17.0
+Business,New Orleans,Kenner,12.3,35.0
+Personal,Kenner,Kenner,1.4,5.0
+Personal,Morrisville,Cary,8.7,-1416.0
+Personal,Cary,Morrisville,23.5,41.0
+Personal,Morrisville,Morrisville,2.2,14.0
+Personal,Morrisville,Cary,4.4,12.0
+Personal,Cary,Morrisville,3.3,8.0
+Business,Morrisville,Morrisville,11.8,31.0
+Business,Morrisville,Banner Elk,195.3,206.0
+Personal,Banner Elk,Banner Elk,8.3,21.0
+Personal,Banner Elk,Banner Elk,3.2,10.0
+Personal,Banner Elk,Elk Park,22.4,40.0
+Personal,Elk Park,Banner Elk,12.2,30.0
+Personal,Banner Elk,Banner Elk,4.5,12.0
+Personal,Banner Elk,Newland,28.1,56.0
+Personal,Newland,Newland,3.8,16.0
+Personal,Newland,Boone,41.9,88.0
+Personal,Boone,Banner Elk,23.8,53.0
+Personal,Banner Elk,Banner Elk,13.0,33.0
+Business,Banner Elk,Banner Elk,4.4,13.0
+Personal,Banner Elk,Boone,15.1,27.0
+Personal,Boone,Cary,180.2,185.0
+Personal,Cary,Morrisville,4.1,12.0
+Personal,Morrisville,Cary,6.1,21.0
+Personal,Northwoods,Preston,3.3,11.0
+Personal,Preston,Whitebridge,4.7,16.0
+Business,Cary,Apex,7.2,21.0
+Business,Apex,Cary,5.5,15.0
+Business,Cary,Morrisville,3.3,7.0
+Business,Hazelwood,Weston,0.9,4.0
+Business,Morrisville,Cary,3.8,8.0
+Business,Whitebridge,Stonewater,6.4,16.0
+Business,Stonewater,Lexington Park at Amberly,3.0,15.0
+Business,Lexington Park at Amberly,Whitebridge,8.7,30.0
+Business,Whitebridge,Chessington,3.9,10.0
+Personal,Chessington,Whitebridge,4.8,18.0
+Personal,Whitebridge,Edgehill Farms,2.8,12.0
+Personal,Edgehill Farms,Preston,1.4,7.0
+Personal,Preston,Whitebridge,1.4,4.0
+Business,Whitebridge,Edgehill Farms,2.7,6.0
+Business,Edgehill Farms,Burtrose,2.3,9.0
+Business,Cary,Morrisville,3.7,15.0
+Business,Morrisville,Cary,2.9,9.0
+Business,Cary,Morrisville,3.8,11.0
+Business,Morrisville,Cary,5.1,14.0
+Business,Hazelwood,Lexington Park at Amberly,9.1,23.0
+Business,Cary,Durham,8.0,17.0
+Business,Durham,Cary,9.9,21.0
+Business,Cary,Morrisville,6.1,16.0
+Business,Morrisville,Cary,12.2,33.0
+Business,Wayne Ridge,Whitebridge,8.0,18.0
+Business,Cary,Morrisville,4.0,17.0
+Business,Morrisville,Cary,9.5,24.0
+Business,Cary,Morrisville,3.0,12.0
+Business,Morrisville,Cary,6.3,20.0
+Business,Cary,Durham,10.4,16.0
+Business,Durham,Cary,9.9,25.0
+Business,Whitebridge,Parkway,1.5,6.0
+Business,Cary,Morrisville,4.9,11.0
+Business,Morrisville,Cary,7.9,29.0
+Business,Parkway,Whitebridge,1.7,7.0
+Business,Whitebridge,Westpark Place,2.2,6.0
+Business,Westpark Place,Whitebridge,2.1,10.0
+Business,Cary,Morrisville,2.5,8.0
+Business,Morrisville,Cary,2.5,8.0
+Business,Cary,Morrisville,2.8,12.0
+Business,Morrisville,Raleigh,14.7,23.0
+Business,Raleigh,Morrisville,14.6,26.0
+Business,Morrisville,Cary,2.3,5.0
+Business,Whitebridge,Westpark Place,2.2,2.0
+Business,Westpark Place,Whitebridge,2.2,18.0
+Business,Cary,Durham,14.0,25.0
+Business,Durham,Cary,13.3,25.0
+Business,Westpark Place,Whitebridge,1.8,7.0
+Business,Whitebridge,Arlington Park at Amberly,6.2,17.0
+Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,11.0
+Business,Lexington Park at Amberly,Westpark Place,1.9,18.0
+Business,Cary,Apex,6.9,22.0
+Business,Apex,Cary,4.6,7.0
+Business,Whitebridge,Edgehill Farms,2.8,7.0
+Business,Cary,Morrisville,9.1,30.0
+Business,Morrisville,Cary,8.1,32.0
+Business,Cary,Morrisville,8.4,21.0
+Business,Arlington,Washington,4.9,24.0
+Business,Kalorama Triangle,K Street,1.0,8.0
+Business,K Street,Kalorama Triangle,1.0,6.0
+Business,West End,Northwest Rectangle,2.0,14.0
+Business,K Street,Kalorama Triangle,1.1,4.0
+Business,Kalorama Triangle,Downtown,1.5,4.0
+Business,Connecticut Avenue,Kalorama Triangle,1.3,7.0
+Business,Kalorama Triangle,Columbia Heights,1.8,4.0
+Business,Columbia Heights,Kalorama Triangle,1.5,10.0
+Business,Washington,Arlington,6.6,18.0
+Business,Morrisville,Cary,8.0,22.0
+Business,Whitebridge,Edgehill Farms,2.7,9.0
+Business,Edgehill Farms,Whitebridge,2.7,15.0
+Business,Cary,Morrisville,2.5,6.0
+Business,Morrisville,Cary,2.5,8.0
+Business,Whitebridge,Farmington Woods,5.2,14.0
+Business,Farmington Woods,Edgehill Farms,4.0,13.0
+Business,Edgehill Farms,Whitebridge,2.7,11.0
+Business,Cary,Morrisville,4.8,25.0
+Business,Morrisville,Cary,3.2,9.0
+Business,Whitebridge,Waverly Place,6.9,18.0
+Business,Cary,Raleigh,14.9,21.0
+Business,Raleigh,Cary,17.4,33.0
+Business,Cary,Durham,12.9,28.0
+Business,Durham,Apex,15.3,35.0
+Business,Apex,Apex,1.0,1.0
+Business,Apex,Cary,6.0,15.0
+Business,Whitebridge,Heritage Pines,2.2,7.0
+Business,Heritage Pines,Edgehill Farms,4.4,14.0
+Business,Edgehill Farms,Whitebridge,2.8,10.0
+Business,Cary,Wake Forest,31.7,52.0
+Business,Wake Forest,Cary,31.9,45.0
+Business,Whitebridge,Westpark Place,1.9,3.0
+Business,Westpark Place,Whitebridge,1.8,9.0
+Business,Cary,Morrisville,8.4,23.0
+Business,Islamabad,Islamabad,1.2,7.0
+Business,R?walpindi,Islamabad,6.4,15.0
+Business,Noorpur Shahan,Islamabad,3.3,13.0
+Business,Islamabad,R?walpindi,6.5,20.0
+Business,Islamabad,Islamabad,3.2,15.0
+Business,Islamabad,Islamabad,1.4,7.0
+Business,Islamabad,Islamabad,1.5,9.0
+Business,R?walpindi,R?walpindi,4.1,38.0
+Business,Noorpur Shahan,Islamabad,4.4,11.0
+Business,Lahore,Lahore,7.4,23.0
+Business,Lahore,Lahore,1.5,12.0
+Business,Lahore,Lahore,3.4,14.0
+Business,Lahore,Lahore,3.8,23.0
+Business,Lahore,Lahore,7.0,19.0
+Business,Lahore,Lahore,0.9,5.0
+Business,Noorpur Shahan,Islamabad,6.2,16.0
+Business,Islamabad,Islamabad,5.3,18.0
+Business,Islamabad,Islamabad,4.3,10.0
+Business,Islamabad,Islamabad,2.5,10.0
+Business,Islamabad,Islamabad,2.6,9.0
+Business,Islamabad,Islamabad,4.4,21.0
+Business,Karachi,Karachi,2.9,25.0
+Business,Lahore,Lahore,9.8,82.0
+Business,Islamabad,Islamabad,37.7,161.0
+Business,Islamabad,Islamabad,2.8,17.0
+Business,Islamabad,Islamabad,1.6,10.0
+Business,Lahore,Lahore,2.6,23.0
+Business,Lahore,Lahore,2.4,15.0
+Business,Lahore,Lahore,3.1,19.0
+Business,Lahore,Lahore,6.1,28.0
+Business,Karachi,Karachi,3.6,0.0
+Business,Islamabad,Islamabad,1.7,6.0
+Business,Islamabad,Islamabad,1.0,6.0
+Business,Islamabad,Islamabad,0.7,0.0
+Business,Islamabad,Islamabad,2.3,9.0
+Business,Morrisville,Morrisville,6.2,20.0
+Business,Morrisville,Cary,3.1,13.0
+Business,Cary,Durham,10.5,19.0
+Business,Durham,Morrisville,8.1,21.0
+Business,Morrisville,Cary,3.1,9.0
+Business,Whitebridge,Parkway,2.1,6.0
+Business,Cary,Morrisville,4.3,9.0
+Business,Morrisville,Cary,2.5,7.0
+Business,Cary,Raleigh,20.6,38.0
+Business,Raleigh,Cary,17.6,42.0
+Business,Cary,Apex,5.6,14.0
+Business,Apex,Apex,3.3,14.0
+Business,Apex,Cary,5.3,17.0
+Business,Whitebridge,Edgehill Farms,3.3,10.0
+Business,Edgehill Farms,Whitebridge,3.3,9.0
+Business,Cary,Morrisville,7.9,28.0
+Business,Oakland,Emeryville,13.0,21.0
+Business,Emeryville,Berkeley,3.0,10.0
+Business,Berkeley,Emeryville,3.0,6.0
+Business,Emeryville,Oakland,3.8,14.0
+Business,Oakland,San Francisco,9.5,27.0
+Business,SOMISSPO,French Quarter,1.7,11.0
+Business,San Francisco,Berkeley,10.8,29.0
+Business,West Berkeley,North Berkeley Hills,4.1,18.0
+Business,North Berkeley Hills,Southside,2.2,13.0
+Business,Berkeley,Emeryville,4.6,28.0
+Business,Emeryville,Berkeley,3.1,8.0
+Business,Berkeley,San Jose,47.7,58.0
+Business,San Jose,Emeryville,44.6,53.0
+Business,Emeryville,Oakland,13.2,15.0
+Business,Morrisville,Cary,8.7,15.0
+Business,Cary,Raleigh,17.2,37.0
+Business,Raleigh,Cary,14.0,47.0
+Business,Cary,Raleigh,28.1,41.0
+Business,Raleigh,Cary,28.2,42.0
+Business,Cary,Morrisville,3.1,10.0
+Business,Morrisville,Cary,3.1,15.0
+Business,Cary,Durham,16.4,29.0
+Business,Durham,Morrisville,15.4,40.0
+Business,Morrisville,Cary,2.2,7.0
+Business,Cary,Apex,11.2,41.0
+Business,Apex,Eagle Rock,2.2,7.0
+Business,Eagle Rock,Cary,3.6,17.0
+Business,Whitebridge,Savon Height,3.6,11.0
+Business,Savon Height,Parkway,4.9,9.0
+Business,Parkway,Whitebridge,8.7,21.0
+Business,Whitebridge,Parkway,2.1,6.0
+Business,Parkway,Whitebridge,2.1,10.0
+Business,Cary,Morrisville,8.4,25.0
+Business,Morrisville,Morrisville,5.9,15.0
+Business,Huntington Woods,Huntington Woods,12.1,29.0
+Business,Huntington Woods,Weston,3.9,7.0
+Business,Morrisville,Cary,6.2,22.0
+Business,Cary,Durham,10.4,18.0
+Business,Durham,Cary,9.9,30.0
+Business,Cary,Winston Salem,107.0,126.0
+Business,Winston Salem,Asheville,133.6,114.0
+Business,Asheville,Topton,91.8,107.0
+Business,Topton,Hayesville,40.7,103.0
+Business,Hayesville,Topton,75.7,126.0
+Business,Topton,Bryson City,29.8,41.0
+Business,Bryson City,Bryson City,16.3,62.0
+Business,Bryson City,Bryson City,6.5,27.0
+Business,Bryson City,Bryson City,6.3,30.0
+Business,Bryson City,Almond,6.6,11.0
+Business,Almond,Bryson City,15.2,20.0
+Business,Bryson City,Asheville,68.4,73.0
+Business,Asheville,Mebane,195.9,181.0
+Business,Mebane,Cary,45.2,73.0
+Business,Cary,Morrisville,3.2,9.0
+Business,Morrisville,Raleigh,10.3,29.0
+Business,Raleigh,Cary,13.1,26.0
+Business,Savon Height,Whitebridge,9.6,25.0
+Business,Cary,Durham,16.5,37.0
+Business,Durham,Cary,12.8,33.0
+Business,Whitebridge,Whitebridge,1.2,7.0
+Business,Whitebridge,Whitebridge,1.0,6.0
+Business,Whitebridge,Whitebridge,4.1,13.0
+Business,Whitebridge,Whitebridge,4.2,14.0
+Business,Whitebridge,Westpark Place,1.4,8.0
+Business,Westpark Place,Whitebridge,1.8,7.0
+Business,Cary,Morrisville,8.5,25.0
+Business,Morrisville,Morrisville,5.0,15.0
+Business,Morrisville,Cary,3.8,7.0
+Business,Whitebridge,Hazelwood,2.5,6.0
+Business,Hazelwood,Whitebridge,2.4,6.0
+Business,Whitebridge,Westpark Place,1.4,5.0
+Business,Westpark Place,Whitebridge,1.8,13.0
+Business,Cary,Morrisville,3.1,17.0
+Business,Morrisville,Cary,3.1,12.0
+Business,Cary,Morrisville,7.9,16.0
+Business,San Jose,Santa Clara,3.8,7.0
+Business,Agnew,Cory,4.3,16.0
+Business,Cory,Agnew,3.9,13.0
+Business,Agnew,Renaissance,2.2,9.0
+Business,Renaissance,Agnew,2.8,11.0
+Business,Agnew,Agnew,2.2,8.0
+Business,Agnew,Renaissance,2.4,14.0
+Business,Renaissance,Agnew,2.8,17.0
+Business,Santa Clara,Berkeley,43.9,61.0
+Business,Downtown,West Berkeley,1.8,8.0
+Business,West Berkeley,Central,3.3,15.0
+Business,Berkeley,San Francisco,11.8,29.0
+Business,San Francisco,Berkeley,13.2,40.0
+Business,Berkeley,San Francisco,12.2,28.0
+Business,San Francisco,Berkeley,11.3,33.0
+Business,Berkeley,Emeryville,3.6,20.0
+Business,Emeryville,Berkeley,3.0,13.0
+Business,Berkeley,San Francisco,11.4,33.0
+Business,NOMA,Downtown,0.9,6.0
+Business,Downtown,Sunnyside,6.2,32.0
+Business,Sunnyside,Ingleside,0.7,5.0
+Business,Ingleside,Potrero Flats,5.5,14.0
+Business,San Francisco,Oakland,12.7,37.0
+Business,Oakland,Berkeley,2.6,10.0
+Business,Central,Central,1.1,6.0
+Business,Berkeley,San Francisco,12.6,29.0
+Business,Tenderloin,SOMISSPO,1.2,11.0
+Business,SOMISSPO,Tenderloin,1.1,10.0
+Business,San Francisco,Oakland,9.9,5.0
+Business,Oakland,Berkeley,6.0,23.0
+Business,West Berkeley,Central,0.8,3.0
+Business,Berkeley,Menlo Park,45.9,48.0
+Business,Menlo Park,Palo Alto,4.0,15.0
+Business,Palo Alto,Menlo Park,2.5,12.0
+Business,Menlo Park,Berkeley,36.6,67.0
+Business,Central,College Avenue,2.9,13.0
+Business,College Avenue,Central,2.6,10.0
+Business,Central,South,2.3,20.0
+Business,South,Downtown,6.4,30.0
+Business,Downtown,Central,1.4,8.0
+Business,Central,West Berkeley,0.6,4.0
+Business,West Berkeley,South,5.9,31.0
+Business,South,Southwest Berkeley,0.8,7.0
+Business,Berkeley,Emeryville,1.3,11.0
+Business,Emeryville,Berkeley,3.7,19.0
+Business,Central,Central,2.3,8.0
+Business,Central,Central,2.6,26.0
+Business,Central,Southside,1.9,6.0
+Business,Southside,West Berkeley,2.1,12.0
+Business,West Berkeley,Southside,4.0,29.0
+Business,Southside,South Berkeley,0.9,6.0
+Business,South Berkeley,Southside,0.9,4.0
+Business,Southside,Central,2.4,11.0
+Business,Central,Southside,1.9,10.0
+Business,Southside,Central,1.9,12.0
+Business,Berkeley,Mountain View,44.6,49.0
+Business,Mountain View,Berkeley,43.6,53.0
+Business,Berkeley,Emeryville,2.5,9.0
+Business,Emeryville,Berkeley,3.7,11.0
+Business,Berkeley,Oakland,5.1,7.0
+Business,Oakland,San Francisco,9.7,17.0
+Business,San Francisco,Berkeley,11.8,16.0
+Business,Berkeley,El Cerrito,2.3,6.0
+Business,El Cerrito,Berkeley,3.1,10.0
+Business,Berkeley,Oakland,16.3,31.0
+Business,Cary,Morrisville,3.1,10.0
+Business,Morrisville,Cary,5.2,11.0
+Business,Krendle Woods,Whitebridge,6.1,25.0
+Business,Cary,Durham,10.3,19.0
+Business,Durham,Cary,10.5,21.0
+Business,Cary,Cary,1.5,5.0
+Business,Cary,Cary,1.8,14.0
+Business,Cary,Apex,5.4,13.0
+Business,Apex,Cary,5.4,21.0
+Business,Cary,Cary,39.2,65.0
+Business,Cary,Cary,6.4,30.0
+Business,Cary,Cary,2.7,9.0
+Business,Cary,Cary,18.5,52.0
+Business,Cary,Cary,2.5,12.0
+Business,Cary,Cary,2.1,10.0
+Business,Morrisville,Cary,3.4,8.0
+Business,Cary,Cary,5.5,15.0
+Business,Cary,Cary,4.1,13.0
+Business,Cary,Cary,12.7,52.0
+Business,Cary,Morrisville,3.0,10.0
+Business,Morrisville,Cary,3.5,12.0
+Business,Cary,Cary,5.9,16.0
+Business,Cary,Cary,1.9,11.0
+Business,Cary,Cary,3.3,11.0
+Business,Cary,Cary,1.3,10.0
+Business,Cary,Durham,10.3,17.0
+Business,Durham,Cary,11.1,18.0
+Business,Cary,Cary,1.4,5.0
+Business,Cary,Apex,5.1,12.0
+Business,Apex,Holly Springs,9.0,20.0
+Business,Holly Springs,Cary,13.3,35.0
+Business,Cary,Cary,2.5,7.0
+Business,Cary,Morrisville,3.3,7.0
+Business,Morrisville,Cary,2.9,14.0
+Business,Cary,Raleigh,8.5,31.0
+Business,Raleigh,Morrisville,6.7,42.0
+Business,Morrisville,Cary,3.1,10.0
+Business,Cary,Cary,5.5,15.0
+Business,Cary,Cary,5.5,16.0
+Business,Cary,Morrisville,2.9,12.0
+Business,Morrisville,Cary,2.9,10.0
+Business,Cary,Apex,5.1,11.0
+Business,Apex,Cary,5.3,15.0
+Business,Cary,Morrisville,3.3,7.0
+Business,Morrisville,Cary,3.0,8.0
+Business,Cary,Wake Co.,6.6,21.0
+Business,Wake Co.,Morrisville,1.8,7.0
+Business,Morrisville,Cary,3.0,10.0
+Business,Cary,Morrisville,2.9,7.0
+Business,Morrisville,Cary,3.4,11.0
+Business,Cary,Cary,4.1,13.0
+Business,Cary,Cary,3.8,15.0
+Business,Cary,Cary,6.6,29.0
+Business,Cary,Cary,4.0,11.0
+Business,Cary,Cary,7.0,20.0
+Business,Cary,Cary,6.9,37.0
+Business,Cary,Cary,3.4,13.0
+Business,Cary,Cary,3.4,9.0
+Business,Cary,Cary,2.0,5.0
+Business,Cary,Cary,2.0,5.0
+Business,Cary,Apex,5.1,15.0
+Business,Apex,Cary,8.8,28.0
+Business,Cary,Cary,5.6,23.0
+Business,Cary,Cary,18.9,54.0
+Business,Cary,Fuquay-Varina,15.6,33.0
+Business,Fuquay-Varina,Cary,15.6,36.0
+Business,Cary,Morrisville,3.0,10.0
+Business,Morrisville,Cary,3.1,12.0
+Business,Cary,Morrisville,3.0,10.0
+Business,Morrisville,Cary,4.8,10.0
+Business,Cary,Cary,2.1,8.0
+Business,Cary,Cary,3.1,10.0
+Business,Cary,Apex,4.4,15.0
+Business,Apex,Cary,4.7,13.0
+Business,Cary,Morrisville,3.0,10.0
+Business,Morrisville,Cary,3.0,9.0
+Business,Cary,Cary,4.2,10.0
+Business,Cary,Cary,4.1,9.0
+Business,Cary,Cary,3.4,18.0
+Business,Cary,Cary,3.3,12.0
+Business,Cary,Morrisville,3.0,10.0
+Business,Morrisville,Cary,3.1,16.0
+Business,Cary,Morrisville,10.6,34.0
+Business,Islamabad,Rawalpindi,5.9,19.0
+Business,Rawalpindi,Islamabad,7.2,19.0
+Business,Rawalpindi,Rawalpindi,3.3,18.0
+Business,Islamabad,Islamabad,1.8,10.0
+Business,Islamabad,Islamabad,1.4,11.0
+Business,Islamabad,Islamabad,2.1,9.0
+Business,Lahore,Lahore,2.1,12.0
+Business,Lahore,Lahore,2.1,5.0
+Business,Lahore,Lahore,3.0,20.0
+Business,Lahore,Lahore,5.3,19.0
+Business,Lahore,Lahore,1.6,2.0
+Business,Lahore,Lahore,3.6,21.0
+Business,Lahore,Lahore,1.7,15.0
+Business,Lahore,Lahore,2.9,15.0
+Business,Lahore,Lahore,0.6,5.0
+Business,Lahore,Lahore,0.6,4.0
+Business,Lahore,Lahore,2.3,11.0
+Business,Lahore,Lahore,2.3,6.0
+Business,Lahore,Lahore,3.2,11.0
+Business,Lahore,Lahore,6.2,14.0
+Business,Lahore,Lahore,7.7,21.0
+Business,Lahore,Lahore,3.8,13.0
+Business,Kar?chi,Kar?chi,4.9,12.0
+Business,Kar?chi,Kar?chi,5.0,22.0
+Business,Kar?chi,Kar?chi,0.6,4.0
+Business,Kar?chi,Kar?chi,5.5,31.0
+Business,Kar?chi,Kar?chi,2.0,8.0
+Business,Kar?chi,Kar?chi,3.8,23.0
+Business,Kar?chi,Kar?chi,5.1,34.0
+Business,Kar?chi,Kar?chi,3.8,17.0
+Business,Kar?chi,Kar?chi,1.4,8.0
+Business,Kar?chi,Kar?chi,1.1,7.0
+Business,Kar?chi,Kar?chi,4.1,15.0
+Business,Kar?chi,Kar?chi,6.1,16.0
+Business,Kar?chi,Kar?chi,1.3,11.0
+Business,Kar?chi,Kar?chi,7.2,30.0
+Business,Kar?chi,Kar?chi,2.8,18.0
+Business,Kar?chi,Kar?chi,2.9,25.0
+Business,Kar?chi,Kar?chi,4.6,22.0
+Business,Kar?chi,Kar?chi,4.6,23.0
+Business,Kar?chi,Kar?chi,0.8,4.0
+Business,Kar?chi,Kar?chi,0.7,7.0
+Business,Katunayake,Gampaha,6.4,18.0
+Business,Gampaha,Ilukwatta,48.2,103.0
